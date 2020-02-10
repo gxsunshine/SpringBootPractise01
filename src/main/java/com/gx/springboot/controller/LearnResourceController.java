@@ -9,6 +9,11 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.gx.springboot.model.LearnResouce;
 
+/**
+ * modelandview测试
+ * @author Administrator
+ *
+ */
 @Controller
 @RequestMapping("learn")
 public class LearnResourceController {
